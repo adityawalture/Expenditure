@@ -1,16 +1,35 @@
-# expenditure
+# Expenditure📱
 
-A new Flutter project.
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This application helps you manage your daily expenses and keep track of your spending habits. Whether you're budgeting for personal use or managing expenses for a small business.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Prerequisites
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Requirements for the software and other tools to build, test and push 
+- Install Flutter
+
+### Installing
+
+Clone this repository 
+
+    git clone https://github.com/adityawalture/Expenditure
+
+Dependecies Used
+
+    isar: ^3.1.0+1
+    isar_flutter_libs: ^3.1.0+1
+    path_provider: ^2.1.2
+    provider: ^6.1.2
+    intl: ^0.19.0
+    flutter_slidable: ^3.0.1
+    fl_chart: ^0.66.2
+
+## APK
+
+
+## Contributing
+Contributions are welcome! If you find a bug or have an idea for an enhancement, please open an issue or submit a pull request.
